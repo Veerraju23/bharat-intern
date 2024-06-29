@@ -1,0 +1,15 @@
+Accuracy: 0.9785
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.98      0.98      0.98       557
+           1       0.98      0.98      0.98       557
+
+    accuracy                           0.98      1114
+   macro avg       0.98      0.98      0.98      1114
+weighted avg       0.98      0.98      0.98      1114
+
+Confusion Matrix:
+[[547 10]
+ [ 9 548]]
+The model achieves an accuracy of 97.85%, with a precision and recall of 0.98 for both spam and non-spam classes
